@@ -22,11 +22,11 @@ the point counter increases by a point for each star
 
 ## In Game
 
+![while play game 1](https://user-images.githubusercontent.com/52893501/96521785-4ea5ea00-1272-11eb-9667-6f361ec0bc30.png)
+
 ![Star in game](https://user-images.githubusercontent.com/52893501/96521815-63827d80-1272-11eb-8465-9e17587fa53a.png)
 
 ![Increase the counter after taking a star](https://user-images.githubusercontent.com/52893501/96521717-2f0ec180-1272-11eb-8b25-7f1e1fe8fe2e.png)
-
-![while play game 1](https://user-images.githubusercontent.com/52893501/96521785-4ea5ea00-1272-11eb-9667-6f361ec0bc30.png)
 
 ![different shape](https://user-images.githubusercontent.com/52893501/96521856-7e54f200-1272-11eb-9965-7560359fcbd1.png)
 
